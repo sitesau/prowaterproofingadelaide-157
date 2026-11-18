@@ -1,0 +1,22 @@
+{
+  "wheel_id": 918,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-157",
+  "project": "waterproofing-contractors-adelaide-planning-guide-3ac0d69bba08a",
+  "parent_t1_ref": "prowaterproofingadelaide-012",
+  "node_role": "buffer",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing contractors adelaide planning guide",
+  "intended_url": "http://waterproofing-contractors-adelaide-planning-guide-3ac0d69bba08a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "01b446ab62886d34",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/waterproofing-contractors-adelaide-012/",
+      "anchor": "Waterproofing Contractors Adelaide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
